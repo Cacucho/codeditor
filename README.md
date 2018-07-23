@@ -1,4 +1,4 @@
-#codeditor
+# codeditor
 
 OFFLINE MEDIAWIKI CODE EDITOR
 
