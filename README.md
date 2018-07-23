@@ -1,4 +1,5 @@
 #codeditor
+
 OFFLINE MEDIAWIKI CODE EDITOR
 
 An offline solution for Microsoft Access users to generate MediaWiki code for Wikipedia pages.
