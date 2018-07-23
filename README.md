@@ -1,4 +1,5 @@
-# OFFLINE MEDIAWIKI CODE EDITOR
+#codeditor
+OFFLINE MEDIAWIKI CODE EDITOR
 
 An offline solution for Microsoft Access users to generate MediaWiki code for Wikipedia pages.
 
@@ -20,4 +21,4 @@ If the yellow message does not appear open "Access options" and in the option Ma
 
 Enjoy the application!
 
-Antonio J.García
+Antonio J. Garcia
